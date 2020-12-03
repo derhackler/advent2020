@@ -18,4 +18,12 @@ defmodule AdventTest do
   test "day2-2" do
     assert Day02_2.run() == 708
   end
+
+  test "day3-1" do
+    assert Day03_1.run() == 207
+  end
+
+  test "day3-2" do
+    assert Day03_2.run() == 2655892800
+  end
 end
