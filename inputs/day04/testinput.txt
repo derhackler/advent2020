@@ -1,0 +1,16 @@
+hgt:67cm
+eyr:2028 ecl:brn
+hcl:411b18 pid:222472243
+
+byr:1981 ecl:gry hcl:#b6652a eyr:2033 iyr:1943 pid:832989613 hgt:167cm
+
+byr:1970
+cid:172 hcl:#64fbcb eyr:2007
+ecl:hzl pid:982450142
+hgt:61cm iyr:2019
+
+eyr:2025
+hgt:161cm iyr:1962
+pid:394421140
+ecl:gry
+cid:209 hcl:#efcc98 byr:2001

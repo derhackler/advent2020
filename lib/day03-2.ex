@@ -2,6 +2,9 @@ defmodule Day03_2 do
   @doc """
   same soluion as day one
   really nice: task async stream which is great for this!
+
+  FAR FAR Better solution than mine using Stream.cycle
+  - https://github.com/adamu/AdventOfCode2020/blob/main/day3/day3part1.exs
   """
   def run do
     input = File.read!(Path.relative_to_cwd("inputs/day03/input.txt")) |> String.split("\n")
